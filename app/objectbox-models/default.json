@@ -1,0 +1,68 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:5934602225266086938",
+      "lastPropertyId": "12:5818816638155638830",
+      "name": "FlickrPhoto",
+      "properties": [
+        {
+          "id": "1:6575016092923510838",
+          "name": "boxId"
+        },
+        {
+          "id": "2:6136387877655760304",
+          "name": "photoId"
+        },
+        {
+          "id": "3:7084793837781688885",
+          "name": "owner"
+        },
+        {
+          "id": "4:8269077522041076276",
+          "name": "secret"
+        },
+        {
+          "id": "5:3376199370770833523",
+          "name": "server"
+        },
+        {
+          "id": "6:3200171228494844036",
+          "name": "farm"
+        },
+        {
+          "id": "7:1578481707508414436",
+          "name": "title"
+        },
+        {
+          "id": "8:8622332112899126481",
+          "name": "ispublic"
+        },
+        {
+          "id": "9:5948575473732664660",
+          "name": "isfriend"
+        },
+        {
+          "id": "10:2136852184012388829",
+          "name": "isfamily"
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:5934602225266086938",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 3,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [
+    3012553217929963074,
+    5818816638155638830
+  ],
+  "retiredRelationUids": [],
+  "version": 1
+}
